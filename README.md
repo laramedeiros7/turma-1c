@@ -1,1 +1,2 @@
-# turma-1c
+#turma1c
+arquivo de pensamento computaciona
